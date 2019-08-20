@@ -1,0 +1,26 @@
+.caja_login{
+	background: rgba(0,0,0,0.4);
+	padding: 3em;
+	border-radius: 50px;
+	color: white;
+}
+.caja_login legend{
+	color: white;
+}
+
+.remove_paddinglr{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.id_almacen,.ocultar{
+	display: none;
+}
+
+body{
+	background-image: url(../img/fondo.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
